@@ -1,0 +1,23 @@
+# Created by https://www.gitignore.io/api/codeblocks
+# Edit at https://www.gitignore.io/?templates=codeblocks
+
+### CodeBlocks ###
+# specific to CodeBlocks IDE
+*.layout
+*.depend
+# generated directories
+bin/
+obj/
+
+### Test cases generation programs ###
+Gen-*/
+
+# End of https://www.gitignore.io/api/codeblocks
+
+# Zip files
+*.zip
+
+### Problems of Coding Pass ###
+Bugs---CodingPass/
+
+
